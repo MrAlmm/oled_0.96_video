@@ -1,6 +1,6 @@
 # oled_0.96_video
 
-[![Uploading image.png…]()](https://scontent.fjed2-2.fna.fbcdn.net/v/t1.15752-9/746878048_1717566662774794_5896726065488620736_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=NRYAE6t82HYQ7kNvwGVa2oQ&_nc_oc=Adp7TY_ztuRL0rfktjdPJVAUIZ2ZJESPX17uGoHOMPXpMFpNvhRHgB5orjSDL1NhSeY&_nc_zt=23&_nc_ht=scontent.fjed2-2.fna&_nc_ss=7baaf&oh=03_Q7cD5wFKMEVurE61KJxxDijAn7YaGK6amN8lYrdBgVLu92pPgQ&oe=6A807AD9)
+file:///C:/Users/mam20/Downloads/746878048_1717566662774794_5896726065488620736_n.jpg
 
 
 A project for playing video sequences on a 0.96-inch OLED display (SSD1306) using an ESP32.
