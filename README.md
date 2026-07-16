@@ -1,5 +1,8 @@
 # oled_0.96_video
 
+![Uploading image.png…]()
+
+
 A project for playing video sequences on a 0.96-inch OLED display (SSD1306) using an ESP32.
 
 ## Features
